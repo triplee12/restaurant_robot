@@ -5,7 +5,7 @@ should probably be programming with threads. Yes, threads. THOSE threads. Seri�
 ously. I’m not kidding.
 —Dave Beazley, “Developing with Curio”
 
-## Case Study: The resturant with the humanoid robots
+## Case Study: The restaurant with the humanoid robots
 
 The Restaurant of ThreadBots
 
