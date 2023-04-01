@@ -36,7 +36,7 @@ whether the food is ready, and when it is, will immediately take the dishes to t
 tomers’ table. When the guests are ready to leave, they return to GreetBot, who calcu‐
 lates the bill, takes their payment, and graciously wishes them a pleasant evening.
 
-## Codes Explanation Of ThreadBot
+## Codes Explanation For ThreadBot Class
 
 - A ThreadBot is a subclass of a thread.
 
@@ -52,7 +52,7 @@ lates the bill, takes their payment, and graciously wishes them a pleasant eveni
 requirement is to get sets of cutlery from the kitchen and place them on the table.
 (ii) clear table is used when a table is to be cleared: the bot must return the used cutlery back to the kitchen.(iii) shutdown just shuts down the bot.
 
-## Codes Explanation Of Cutlery
+## Codes Explanation For Cutlery Class
 
 - attrs, which is an open source Python library that has nothing to do with threads or asyncio, is a really wonderful library for making class creation easy.
 Here, the @attrs decorator will ensure that this Cutlery class will get all the usual boilerplate code (like __init__()) automatically set up.
